@@ -1,4 +1,5 @@
-# Dynamic_Study_Planner, is a web-based platform designed to help users organize their schedules and routines effectively while boosting productivity. It combines Artificial Intelligence (AI) and Genetic Algorithms (GA) to generate personalized study or work timetables based on user preferences, their existing schedules, and workload requirements.
+# Dynamic_Study_Planner, 
+is a web-based platform designed to help users organize their schedules and routines effectively while boosting productivity. It combines Artificial Intelligence (AI) and Genetic Algorithms (GA) to generate personalized study or work timetables based on user preferences, their existing schedules, and workload requirements.
 
 The platform has a clean UI featuring a sidebar with tools like:
 
